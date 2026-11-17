@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="440" viewBox="0 0 1280 440" role="img" aria-labelledby="title desc">
+  <title id="title">TOJI ZENIN — Ideas into interfaces.</title>
+  <desc id="desc">A dark editorial banner with a custom geometric TZ monogram, mint accents and an orbital blueprint.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101b25"/><stop offset="1" stop-color="#080e16"/></linearGradient>
+    <linearGradient id="line"><stop stop-color="#84f0cc"/><stop offset="1" stop-color="#84f0cc" stop-opacity="0"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#8cabc4" stroke-opacity=".055"/></pattern>
+  </defs>
+  <rect width="1280" height="440" rx="20" fill="url(#bg)"/>
+  <rect width="1280" height="440" rx="20" fill="url(#grid)"/>
+  <path d="M64 56h36M64 56v36M1216 384h-36M1216 384v-36" stroke="#84f0cc" stroke-width="2" fill="none"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="96" y="90" fill="#84f0cc" font-size="14" letter-spacing="4">TOJI ZENIN / PERSONAL WORKSPACE</text>
+    <text x="92" y="182" fill="#f2f6fa" font-size="74" font-weight="700" letter-spacing="-3">Ideas into</text>
+    <text x="92" y="263" fill="#f2f6fa" font-size="74" font-weight="700" letter-spacing="-3">interfaces.</text>
+    <path d="M96 297H646" stroke="url(#line)"/>
+    <text x="96" y="335" fill="#a1b3c5" font-size="19">Curiosity. Craft. Continuous iteration.</text>
+    <text x="96" y="380" fill="#71879c" font-size="12" letter-spacing="3">A PORTFOLIO IN THE MAKING</text>
+  </g>
+  <g transform="translate(1004 218)">
+    <circle r="142" fill="none" stroke="#243949"/>
+    <circle r="116" fill="none" stroke="#243949" stroke-dasharray="3 10"/>
+    <path d="M-170 0H170M0-170V170" stroke="#243949"/>
+    <rect x="-86" y="-86" width="172" height="172" rx="32" transform="rotate(-12)" fill="#10242a" stroke="#365c60"/>
+    <path d="M-65-44H4M-30-44V48" fill="none" stroke="#84f0cc" stroke-width="9" stroke-linejoin="round"/>
+    <path d="M20-44H71L20 47H71" fill="none" stroke="#e9f4f5" stroke-width="9" stroke-linecap="square"/>
+    <circle cx="124" cy="-70" r="6" fill="#84f0cc"/>
+    <circle cx="-111" cy="89" r="4" fill="#7897b0"/>
+  </g>
+</svg>
