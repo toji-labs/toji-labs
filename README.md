@@ -1,16 +1,16 @@
 <p align="center">
-  <img src="./banner.svg" width="100%" alt="TOJI ZENIN — Ideas into interfaces. Curiosity, craft and continuous iteration." />
+  <img src="./banner.png" width="100%" alt="Toji Labs — build(). Code, interfaces and continuous iteration." />
 </p>
 
 <p align="center">
-  <a href="#hello-im-toji">English</a> &nbsp; / &nbsp;
-  <a href="#olá-sou-toji">Português</a> &nbsp; · &nbsp;
-  <a href="https://github.com/TOJI-zenin-ui?tab=repositories">Explore my work ↗</a>
+  <a href="#toji-labs">English</a> &nbsp; / &nbsp;
+  <a href="#olá-eu-sou-toji">Português</a> &nbsp; · &nbsp;
+  <a href="https://github.com/toji-labs?tab=repositories">Explore my work ↗</a>
 </p>
 
-## Hello, I'm Toji.
+## Toji Labs
 
-**An idea is a starting point. The details make it worth using.**
+**Code with intent. Build, learn, refine.**
 
 I'm shaping a personal space for software, experiments and the thinking behind them. My aim is to turn curiosity into useful experiences, with clear interfaces and careful attention to how things work.
 
@@ -40,13 +40,13 @@ This portfolio is taking shape. Project highlights will appear here as public re
 
 ### Let's make something worth using.
 
-Ideas, feedback or a collaboration in mind? [Start a conversation →](https://github.com/TOJI-zenin-ui/TOJI-zenin-ui/issues)
+Ideas, feedback or a collaboration in mind? [Start a conversation →](https://github.com/toji-labs/toji-labs/issues)
 
 ---
 
-## Olá, sou Toji.
+## Olá, eu sou Toji.
 
-**Uma ideia é o ponto de partida. Os detalhes fazem valer a experiência.**
+**Código com propósito. Criar, aprender e refinar.**
 
 Estou construindo um espaço pessoal para software, experimentos e as ideias por trás deles. Meu objetivo é transformar curiosidade em experiências úteis, com interfaces claras e atenção a como tudo funciona.
 
@@ -58,6 +58,6 @@ Este portfólio está ganhando forma. Os destaques serão adicionados conforme h
 
 ### Vamos criar algo que valha a pena usar.
 
-Tem uma ideia, um feedback ou uma proposta de colaboração? [Vamos conversar →](https://github.com/TOJI-zenin-ui/TOJI-zenin-ui/issues)
+Tem uma ideia, um feedback ou uma proposta de colaboração? [Vamos conversar →](https://github.com/toji-labs/toji-labs/issues)
 
-<p align="center"><sub>TOJI ZENIN &nbsp; / &nbsp; CURIOSITY → CRAFT → ITERATION</sub></p>
+<p align="center"><sub>TOJI LABS &nbsp; / &nbsp; CURIOSITY → CRAFT → ITERATION</sub></p>
